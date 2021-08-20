@@ -4,6 +4,9 @@ namespace Lesson2_3
 {
     class Program
     {
+        /*
+            *С клавиатуры вводятся числа, пока не будет введен 0. Подсчитать сумму всех нечетных положительных чисел.
+            */
         static void Main(string[] args)
         {
             int k = 0, s = 0;
