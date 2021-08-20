@@ -19,8 +19,10 @@ namespace Lesson2
             {
                 int k = 0;
                 while (n != 0)
+                { 
                     n = n / 10;
                     k++;
+                }
                 return k;           
             }
             int a, b, c;
